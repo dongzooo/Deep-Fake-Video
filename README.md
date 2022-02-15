@@ -7,8 +7,6 @@
 
 ### Sample
 
-
-
 https://user-images.githubusercontent.com/40832965/153971207-706f49cc-25dd-4b00-b2ee-f3f073c59966.mp4
 
 
