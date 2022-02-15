@@ -6,6 +6,7 @@
 
 ### Sample
 - 제 사진과 트럼프 영상으로 만든 딥페이크 비디오
+-
 https://user-images.githubusercontent.com/40832965/153971207-706f49cc-25dd-4b00-b2ee-f3f073c59966.mp4
 
 
