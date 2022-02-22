@@ -6,7 +6,7 @@
 
 ### 2. Sample
 - 제 사진과 트럼프 영상으로 만든 딥페이크 비디오
--
+
 https://user-images.githubusercontent.com/40832965/153971207-706f49cc-25dd-4b00-b2ee-f3f073c59966.mp4
 
 
@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/40832965/153971207-706f49cc-25dd-4b00-
 ### 3. Request
 - Google Colab
 - 개인 영상과 사진준비 .png
-- 증명사진처럼 전신이 아닌 어깨위로 나오고 정면사진이어야 얼굴인식이 잘됌
+- 증명사진처럼 전신이 아닌 어깨위부터 나오는 정면사진이어야 얼굴인식이 잘됌
 - 구글 colab에서 작성, Jupyter 로컬환경에서 실핼할 시 패키지 버전 확인 필수
 
 
