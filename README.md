@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/40832965/153971207-706f49cc-25dd-4b00-
 
 
 
-### 3. Request
+### 3. Requirements
 - Google Colab
 - 개인 영상과 사진준비 .png
 - 증명사진처럼 전신이 아닌 어깨위부터 나오는 정면사진이어야 얼굴인식이 잘됌
